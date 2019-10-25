@@ -8,7 +8,6 @@ import pathlib
 import simulationBitcoin
 import simulationEth
 import simulationMonero
-import networkAnalytics
 import TheorySimulationBitcoin
 import TheorySimulationEthereum
 import TheorySimulationMonero
