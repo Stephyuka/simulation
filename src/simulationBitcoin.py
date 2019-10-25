@@ -8,7 +8,7 @@ import random
 import sys
 
 
-class SimulationBitcoin:
+class Simulation:
 
     simulation_protocol: str
     simulation_time: float
