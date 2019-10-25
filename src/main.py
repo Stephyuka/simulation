@@ -139,7 +139,7 @@ def big_simulation_monero():
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='hoi Lukas')
+    parser = argparse.ArgumentParser(description='hoi David')
     parser.add_argument('-display', default=True, help='Can show stuff on the display?')
     args = parser.parse_args()
     main2(bool(args.display))
